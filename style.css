@@ -37,7 +37,7 @@ button, input {
     max-height: 720px;
     height: 100vh;
     padding: 20px;
-    background-image: url('./img/Group.svg');
+    background-image: url('./image/Group.svg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
